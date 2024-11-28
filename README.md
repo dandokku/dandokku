@@ -3,6 +3,10 @@
 I'm a **Software Engineer** passionate about creating impactful solutions through **Web Development** and **AI/ML**. My current focus is on integrating AI into existing businesses, healthcare systems, and smart city infrastructures to drive innovation and efficiency.
 
 ## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,js,react,tailwind,nodejs,mongodb,git)](https://skillicons.dev)
+
+
+## 🛠️ Tech Stack
 - **Languages:**  
   ![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)  
   ![JavaScript](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)  
