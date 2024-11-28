@@ -53,4 +53,7 @@ Feel free to reach out to me on any of these platforms:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dandokku&theme=dark&show_icons=true" alt="GitHub Stats" />
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=dandokku&color=blue)
+
+[Profile Views](https://komarev.com/ghpvc/?username=dandokku&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
