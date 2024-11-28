@@ -88,3 +88,77 @@ Feel free to reach out to me on any of these platforms:
 
 Let me know if you'd like me to add anything or customize it further! 😊
 
+
+
+
+
+
+Here’s the updated version of your GitHub profile README with the **skills** and **connect with me** sections aligned in rows for a clean and professional layout:
+
+---
+
+# Hi there! 👋 I'm Kami  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+---
+
+## 👨‍💻 About Me:
+- 💡 **Software Engineer** passionate about **Web Development** and **AI/ML**.  
+- 🌍 Aspiring to incorporate AI solutions into **businesses**, **healthcare**, and **smart cities**.  
+- 🎮 **Hobbies:** Gaming, reading, and enjoying music.  
+- 🌱 Open to **collaborations**, **open-source projects**, and **web development opportunities**.
+
+---
+
+## 🛠️ Tech Stack  
+Here are the technologies I work with:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,tailwind,typescript,nodejs,mongodb,git&perline=8" alt="Tech Stack" />
+</p>
+
+---
+
+## 🚀 Projects
+- 🛋️ **Furniture E-Commerce**: Boosted sales with an optimized online platform.  
+- 🧺 **Laundry Booking App**: Simplified scheduling for busy users.  
+- 🏥 **Hospital Management Tool**: Streamlined patient appointment processes.
+
+---
+
+## 📞 Connect With Me  
+Feel free to reach out to me on any of these platforms:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://wa.me/yourphonenumber" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://x.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-skyblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&theme=dark&show_icons=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### How to Use:
+- Replace placeholder links (`your-username`, `your-profile`, `yourphonenumber`, etc.) with your actual details.
+- Align all icons neatly using the `<p align="center">` tag for aesthetic presentation.
+
+This layout is visually balanced and aligns the **skills** and **contact icons** in rows, making the profile more appealing. Let me know if you’d like further tweaks! 😊
+
