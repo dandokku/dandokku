@@ -1,28 +1,11 @@
 # Hi there! 👋 I'm Daniel Jesuloba
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
 
 I'm a **Software Engineer** passionate about creating impactful solutions through **Web Development** and **AI/ML**. My current focus is on integrating AI into existing businesses, healthcare systems, and smart city infrastructures to drive innovation and efficiency.
 
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,js,react,tailwind,nodejs,mongodb,git)](https://skillicons.dev)
-
-
-## 🛠️ Tech Stack
-- **Languages:**  
-  ![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)  
-  ![JavaScript](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)  
-  ![TypeScript](https://media.giphy.com/media/RkDZ0xL5q2TWwl0KHj/giphy.gif)  
-
-- **Frontend:**  
-  ![React](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)  
-  ![TailwindCSS](https://media.giphy.com/media/gI2sQPLFf2hjsz0HEx/giphy.gif)  
-
-- **Backend:**  
-  ![Node.js](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)  
-  ![MongoDB](https://media.giphy.com/media/vcMrAULz1F5RZuv4Vn/giphy.gif)  
-
-- **Other Tools:**  
-  ![Git](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)  
-  ![Data Analysis](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
 
 ## 🚀 Projects
 - 🛋️ **E-commerce Platform:** Enhanced furniture sales through an optimized online store.
@@ -33,3 +16,14 @@ I'm a **Software Engineer** passionate about creating impactful solutions throug
 - 💡 I’m enthusiastic about integrating AI into daily life.
 - 💻 Open to **web development opportunities** and **open-source collaborations**.
 - 🎮 Hobbies: Gaming, reading, and enjoying music.
+
+- ## 📊 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&theme=dark&show_icons=true)
+
+
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
