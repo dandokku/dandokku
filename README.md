@@ -11,13 +11,6 @@
 ---
 
 ## 🛠️ Tech Stack  
-Here are the technologies I work with:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,tailwind,typescript,nodejs,mongodb,git&perline=8" alt="Tech Stack" />
-</p>
-
-## 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
