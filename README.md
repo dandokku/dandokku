@@ -1,21 +1,11 @@
-Hi, I'm Daniel Ajide Jesuloba 👨‍💻
-Full Stack Developer | AI Enthusiast | Tech Educator
-Welcome to my GitHub! I build scalable web apps and explore AI/ML. Passionate about solving problems with code and teaching others to do the same.
+Hi, I'm Daniel Jesuloba
+I’m a full-stack developer currently building at PuissantDev with a few brilliant minds. I specialize in React, Node.js, and TypeScript — building performant, scalable products that solve real problems.
 
-🛠️ Skills
-Languages: JavaScript, Python, PHP
-Frameworks: React, Node.js, Laravel
-Databases: MySQL, MongoDB
-Tools: Git
+I’m deeply drawn to Machine Learning and AI, and I’m steadily evolving my skill set in that space. What drives me is the challenge of turning abstract ideas into functional, intuitive tools people love using.
 
-📚 Education
-BSc in Information Technology (In Progress) – Lincoln University College
-Professional Diploma in Software Engineering – NIIT Abuja (Graduated with Honours)
+Outside of tech, I’m into chess, music, and exploring the mind through psychology and philosophy.
 
 🌟 Let's Connect!
 Email: jesulobadaniel1@gmail.com
 LinkedIn: linkedin.com/in/daniel-ajide
 Portfolio: danielajide.netlify.app
-
-⚡ Fun Fact
-When I'm not coding, you'll find me playing chess, reading, or listening to music.
