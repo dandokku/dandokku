@@ -5,7 +5,7 @@ I’m deeply drawn to Machine Learning and AI, and I’m steadily evolving my sk
 
 Outside of tech, I’m into chess, music, and exploring the mind through psychology and philosophy.
 
-🌟 Let's Connect!
+Let's Connect!
 Email: jesulobadaniel1@gmail.com
 LinkedIn: linkedin.com/in/daniel-ajide
 Portfolio: danielajide.netlify.app
