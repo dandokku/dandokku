@@ -18,10 +18,6 @@ I'm a **full-stack developer** currently building innovative solutions at **Puis
  **Passion:** Transforming complex ideas into elegant, user-friendly applications  
  **Focus:** Building products that make a difference
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=FF6B9D&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
-
 ## 🛠Tech Arsenal
 
 <div align="center">
@@ -83,7 +79,7 @@ const daniel = {
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0A0E27&color=00D9FF&line=FF6B9D&point=FFFFFF" alt="Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=dandokku&theme=react-dark&hide_border=true&bg_color=0A0E27&color=00D9FF&line=FF6B9D&point=FFFFFF" alt="Activity Graph" />
 </div>
 
 ## Let's Connect & Collaborate!
