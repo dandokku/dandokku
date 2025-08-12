@@ -54,7 +54,7 @@ I'm a **full-stack developer** currently building innovative solutions at **Puis
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandokku&layout=compact&theme=radical&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ## Beyond Code
