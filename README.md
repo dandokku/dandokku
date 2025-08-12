@@ -101,7 +101,7 @@ I'm always excited to connect with fellow developers, discuss innovative ideas, 
   
   <br><br>
   
-  ** "The best way to predict the future is to create it."**
+  **"The best way to predict the future is to create it."**
   
 </div>
 
