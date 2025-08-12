@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&stroke=0000&background=0A0E27&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dandokku&theme=radical&hide_border=true&stroke=0000&background=0A0E27&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
 ## 🚀 About Me
@@ -14,9 +14,9 @@
 
 I'm a **full-stack developer** currently building innovative solutions at **PuissantDev** with a team of brilliant minds. I specialize in creating **performant, scalable products** that solve real-world problems.
 
-🧠 **Currently exploring:** Machine Learning and AI  
-💡 **Passion:** Transforming complex ideas into elegant, user-friendly applications  
-🎯 **Focus:** Building products that make a difference
+ **Currently exploring:** Machine Learning and AI  
+ **Passion:** Transforming complex ideas into elegant, user-friendly applications  
+ **Focus:** Building products that make a difference
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=FF6B9D&text_color=FFFFFF" alt="GitHub Stats" />
@@ -61,7 +61,7 @@ I'm a **full-stack developer** currently building innovative solutions at **Puis
 
 <div align="center">
 
-| 🎯 **Chess** | 🎵 **Music** | 🧠 **Psychology** | 📚 **Philosophy** |
+|  **Chess** |  **Music** |  **Psychology** |  **Philosophy** |
 |:---:|:---:|:---:|:---:|
 | Strategic thinking in every move | Rhythm in code and life | Understanding human behavior | Exploring the depths of existence |
 
