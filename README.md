@@ -1,14 +1,14 @@
 # Hi there, I'm Daniel Jesuloba 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript;Building+at+PuissantDev+%F0%9F%92%A1;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Turning+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+at+PuissantDev;ML+%26+AI+Enthusiast;Turning+Ideas+into+Reality" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dandokku&theme=radical&hide_border=true&stroke=0000&background=0A0E27&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
-## 🚀 About Me
+## About Me
 
 > *"What drives me is the challenge of turning abstract ideas into functional, intuitive tools people love using."*
 
@@ -34,12 +34,14 @@ I'm a **full-stack developer** currently building innovative solutions at **Puis
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-FF9500?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -77,6 +79,10 @@ const daniel = {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dandokku&show_icons=true&theme=radical&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=FF6B9D&text_color=ffffff" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandokku&layout=compact&theme=radical&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=ffffff" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=dandokku&theme=react-dark&hide_border=true&bg_color=0A0E27&color=00D9FF&line=FF6B9D&point=FFFFFF" alt="Activity Graph" />
 </div>
 
 ## Let's Connect & Collaborate!
