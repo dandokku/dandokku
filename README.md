@@ -90,7 +90,6 @@ const daniel = {
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dandokku&show_icons=true&theme=radical&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=FF6B9D&text_color=ffffff" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandokku&layout=compact&theme=radical&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=ffffff" alt="Top Languages" />
 </div>
 
