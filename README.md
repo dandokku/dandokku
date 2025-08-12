@@ -4,9 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+at+PuissantDev;ML+%26+AI+Enthusiast;Turning+Ideas+into+Reality" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dandokku&theme=radical&hide_border=true&stroke=0000&background=0A0E27&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<div align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dandokku&theme=radical&hide_border=true&stroke=0000&background=0A0E27&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF" alt="GitHub Streak" />  
 </div>
+
 
 ## About Me
 
