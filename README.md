@@ -9,6 +9,18 @@
 </div>
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dandokku&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dandokku&theme=radical&no-frame=true&column=1&title=Commit" />
+</div>
+
+![Metrics](https://github-readme-stats.vercel.app/api?username=dandokku&include_all_commits=true&count_private=true&custom_title=Total%20Contributions)
+
+
+
 ## About Me
 
 > *"I like taking random ideas, turning them into working stuff, and making them look good while I’m at it."*
