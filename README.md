@@ -1,6 +1,6 @@
 # Hi there!  
 
-I’m Daniel Jesuloba Ajide, a full stack software engineer.  
+I’m Daniel Jesuloba Ajide, a full-stack software engineer.  
 
 I enjoy building scalable web and mobile applications, and I’m deeply interested in how AI can be applied to healthcare, businesses, and smart cities.  
 Right now, I’m spending a lot of time exploring frontend web design, sharpening my backend skills, and gradually peeking into AI systems.  
