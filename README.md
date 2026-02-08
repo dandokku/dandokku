@@ -9,4 +9,4 @@ Outside of coding, you’ll find me playing chess, making music, gaming, or read
 
 Fun Facts:  
 - I prefer simplicity in design and code.  
-- I enjoy finding ways to integrate AI into everyday life.  
+- I enjoy finding ways to integrate AI into everyday life, seriously.
